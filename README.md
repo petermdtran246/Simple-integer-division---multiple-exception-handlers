@@ -7,6 +7,7 @@ This Python program calculates the quotient (division) of two user-provided inte
 II. Features:
 
 1.Integer Division: Calculates the quotient of two user-entered integers.
+
 2.Exception Handling:
     . Catches ZeroDivisionError for division by zero, printing an informative message.
 
